@@ -21,7 +21,7 @@ public class TimeModule extends Module {
 	
 	public TimeModule() {
 		super("Time");
-		desc = "Display of the current time.";
+		desc = "Displays current time.";
 		defaultTextSize = 144;
 		sampleString = "12:34 PM";
 		loadConfig();
